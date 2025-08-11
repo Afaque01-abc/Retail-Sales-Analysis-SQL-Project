@@ -86,7 +86,8 @@ WHERE sale_date IS NULL OR sale_time IS NULL OR customer_id IS NULL
 * Unique customers per category
 * Orders by shift (Morning, Afternoon, Evening)
 
-Full query list is included in [`analysis_queries.sql`](analysis_queries.sql).
+Full query list is included in [`analysis_queries.sql`](sql_query_p1.sql
+).
 
 ---
 
